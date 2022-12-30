@@ -2,6 +2,10 @@
 
 I'm Cyril, a newbie Front-end engineer.
 
+-   :hammer: Front-end HTML / CSS / JavaScript / React / Bootstrap / React
+-   :wrench: Back-end Node.js / PHP / Python
+-   :nut_and_bolt: Others MySQL / Git
+
 <!--
 **cyril-ke/cyril-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
