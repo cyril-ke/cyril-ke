@@ -1,6 +1,8 @@
-### Hey! Cyril there 👋
+### Hey, Cyril here！ 👋
 
 I'm Cyril, a newbie Front-end engineer.
+
+languages and tools:
 
 -   :hammer: Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
 -   :wrench: Back-end: Node.js / PHP / Python
