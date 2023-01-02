@@ -4,11 +4,11 @@ I'm Cyril, a newbie Front-end engineer.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyril-ke&layout=compact">
 
-languages and tools:
+💻 languages and tools:
 
-- :hammer: Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
-- :wrench: Back-end: Node.js / PHP / Python
-- :nut_and_bolt: Others: MySQL / Git
+- Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
+- Back-end: Node.js / PHP / Python
+- Others: MySQL / Git
 
 📫 You can reach me by mailing to cernd206@gmail.com
 
