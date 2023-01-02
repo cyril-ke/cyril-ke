@@ -2,7 +2,6 @@
 
 I'm Cyril, a newbie Front-end engineer.
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=cyril-ke&layout=compact)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyril-ke&layout=compact">
 
 languages and tools:
