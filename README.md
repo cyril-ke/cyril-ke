@@ -6,9 +6,11 @@ I'm Cyril, a newbie Front-end engineer.
 
 languages and tools:
 
--   :hammer: Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
--   :wrench: Back-end: Node.js / PHP / Python
--   :nut_and_bolt: Others: MySQL / Git
+- :hammer: Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
+- :wrench: Back-end: Node.js / PHP / Python
+- :nut_and_bolt: Others: MySQL / Git
+
+📫 You can reach me by mailing to cernd206@gmail.com
 
 <!--
 **cyril-ke/cyril-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
