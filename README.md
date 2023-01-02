@@ -2,6 +2,8 @@
 
 I'm Cyril, a newbie Front-end engineer.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyril-ke&layout=compact)]
+
 languages and tools:
 
 -   :hammer: Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
