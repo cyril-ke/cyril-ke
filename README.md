@@ -6,7 +6,7 @@ I'm Cyril, a newbie Front-end engineer.
 
 💻 languages and tools:
 
-- Front-end: HTML / CSS / JavaScript / React / Bootstrap / React
+- Front-end: HTML / CSS / JavaScript / React / Bootstrap
 - Back-end: Node.js / PHP / Python
 - Others: MySQL / Git
 
